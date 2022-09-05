@@ -1,0 +1,13 @@
+print(2+2)
+print(2-1)
+print(2*2)
+#residuo
+print(4/2)
+print(5%2)
+print(3**2)
+print("texto1"+"texto2")
+print("texto3"*3)
+print(1>2)
+print(1>=2)
+print(1 == 2)
+print(1 != 2)
